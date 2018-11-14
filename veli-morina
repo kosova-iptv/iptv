@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1200px-Top_Channel.svg.png" group-title="SHQIP",Top Channel
-http://premiumtv.eu:8000/Morina/Envet/1517
+
 #EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1200px-Top_Channel.svg.png" group-title="SHQIP",Top Channel HD
 http://premiumtv.eu:8000/Morina/Envet/328
 #EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/2000px-TV_Klan.svg.png" group-title="SHQIP",Klan TV
@@ -2687,15 +2686,13 @@ http://premiumtv.eu:8000/movie/Morina/Envet/2007.mp4
 http://premiumtv.eu:8000/movie/Morina/Envet/2008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Perfect Day" tvg-logo="http://premiumtv.eu:8000/images/izB9659XL9DILOg6StF6mEWAGWx_small.jpg" group-title="VOD Premier 2018",A Perfect Day
 http://premiumtv.eu:8000/movie/Morina/Envet/2012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Animals" tvg-logo="http://premiumtv.eu:8000/images/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j_small.jpg" group-title="VOD Premier 2018",American Animals
-http://premiumtv.eu:8000/movie/Morina/Envet/2010.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Extinction" tvg-logo="http://premiumtv.eu:8000/images/qjnNdjrZIdi7d316SjjkgEjJRSg_small.jpg" group-title="VOD Premier 2018",Extinction
 http://premiumtv.eu:8000/movie/Morina/Envet/2011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="I Can Only Imagine" tvg-logo="http://premiumtv.eu:8000/images/veZszwMZu8d3WMU6TJX9sV5w1Y4_small.jpg" group-title="VOD Premier 2018",I Can Only Imagine
 http://premiumtv.eu:8000/movie/Morina/Envet/2017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mamma Mia! Here We Go Again" tvg-logo="http://premiumtv.eu:8000/images/aWicerX4Y7n7tUwRAVHsVcBBpj2_small.jpg" group-title="VOD Premier 2018",Mamma Mia! Here We Go Again
 http://premiumtv.eu:8000/movie/Morina/Envet/2022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="eSports TV" tvg-logo="https://image.ibb.co/d7XAQq/esport.png" group-title="SPORT",eSports TV
-http://premiumtv.eu:8000/Morina/Envet/2024
+
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="DOKUMENTAR",DMAX
 http://premiumtv.eu:8000/Morina/Envet/2034
