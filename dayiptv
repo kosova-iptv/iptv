@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Sky Cinema
-http://rb-group-server.com:25461/12341234/12341234/3447
+
 #EXTINF:-1,Sky.Action
 http://rb-group-server.com:25461/12341234/12341234/3444
 #EXTINF:-1,Sky.Cinema Hits
@@ -352,7 +351,6 @@ http://rb-group-server.com:25461/444777/777444/7928
 http://rb-group-server.com:25461/444777/777444/7927
 #EXTINF:-1,Sky Select 8
 http://rb-group-server.com:25461/444777/777444/7929
-#EXTINF:-1,Sky Select 9
-http://rb-group-server.com:25461/444777/777444/7930
+
 #EXTINF:-1,Sky Select 10
 http://rb-group-server.com:25461/444777/777444/7931
