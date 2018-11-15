@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Al- ABC News 24/7
-http://194.88.107.95:6204/alaa/ismail/9128
+
+
 #EXTINF:-1,Al- Bang Bang
 http://194.88.107.95:6204/alaa/ismail/9127
 #EXTINF:-1,Al- BBF Music TV
@@ -1148,7 +1148,6 @@ http://rb-group-server.com:25461/live/sami/sami123/4035.ts
 http://rb-group-server.com:25461/live/sami/sami123/4034.ts
 #EXTINF:-1,PINK WORLD
 http://rb-group-server.com:25461/live/sami/sami123/4036.ts
-#EXTINF:-1,Pink Thriller
-http://rb-group-server.com:25461/live/sami/sami123/4033.ts
-#EXTINF:-1,PINK WESTERN
+
+
 http://rb-group-server.com:25461/live/sami/sami123/4044.ts
